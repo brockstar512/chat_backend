@@ -42,7 +42,9 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - have a topic section
 - have a conversation 
 - have styling
-
+- MERN
+- CRUD
+- socketsIO
 
 
 #### PostMVP EXAMPLE
@@ -50,7 +52,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - Add localStorage or firebase for storage
 - userAuthentication
 - ReactNative
-- socketsIO
+
 
 
 ## Components
@@ -61,10 +63,11 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | Component | Description | 
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router|
-| nav | will take people to topics, favorites|
+| nav | will take people to topics|
 | Topic | show where the user is and nearby restrooms. then guides them to restroom |
 | Comments | gather information of nearby restroom post course I could get preference type of restroom|
 | messaging | here is a messaging place to comments |
+
 
 
 
@@ -83,8 +86,9 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | putting app on netlify| H |3hrs| 0 |
 | styling| H | 6hrs| 0 |
 | routing nav | L | 3hrs| 0 |
-| post mvp styling| L | 3hrs| 0 | 
-| Total | H/L/T | 6/30/36| 0 |
+| post mvp styling| L | 3hrs| 0 |
+| favorites| L | 3hrs| 0 |
+| Total | H/L/T | 6/33/39| 0 |
 
 
 
