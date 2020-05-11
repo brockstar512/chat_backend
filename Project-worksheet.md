@@ -25,8 +25,8 @@ Use this section to include info about the API you have chosen and a code snippe
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
 - [mood_board](https://res.cloudinary.com/dq6nhmmpi/image/upload/v1588959299/project_4_mood_board_e0a1em.png)
-- [wire_frame]()
-- [react_components]()
+- [wire_frame](https://res.cloudinary.com/dq6nhmmpi/image/upload/v1589215193/project_4_picture_fqwizd.png)
+- [react_components](https://res.cloudinary.com/dq6nhmmpi/image/upload/v1589215023/chat_moodboard_hzl5zm.png)
 
 ### MVP/PostMVP - 5min
 
