@@ -87,15 +87,6 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Total | H/L/T | 6/30/36| 0 |
 
 
-| App | This will make the initial data pull and include React Router| 
-| nav | will take people to map, history, favorites, and feedback| 
-| Map | show where the user is and nearby restrooms. then guides them to restroom | 
-| Search | gather information of nearby restroom post course I could get preference type of restroom| 
-| Result | shows information of restrooms after search | 
-| pics | allows user to take pictures and look at pictures | 
-| comments | allows user to read and make comments on bathroom|
-| history | has list of 10 bathrooms user has clicked go on|
-| favorites | has list of most common used bathrooms|
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
