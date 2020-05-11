@@ -24,7 +24,7 @@ Use this section to include info about the API you have chosen and a code snippe
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
 - [mood_board](https://res.cloudinary.com/dq6nhmmpi/image/upload/v1588959299/project_4_mood_board_e0a1em.png)
-- [wire_frame](https://res.cloudinary.com/dq6nhmmpi/image/upload/v1588959299/project_4_phone_e3qqmq.png)
+- [wire_frame]()
 - [react_components]()
 
 ### MVP/PostMVP - 5min
@@ -63,8 +63,8 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router|
 | nav | will take people to topics|
-| Topic | show where the user is and nearby restrooms. then guides them to restroom |
-| Comments | gather information of nearby restroom post course I could get preference type of restroom|
+| Topic | this will be what the component the hosts the topic of conversation|
+| Comments | the user will be able to comment on what the topic of conversation is|
 | messaging | here is a messaging place to comments |
 
 
