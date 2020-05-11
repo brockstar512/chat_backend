@@ -3,8 +3,7 @@
 ## Project Links
 
 - [Backend Repo](https://github.com/brockstar512/chat_backend.git)
-- [Frontend repo](https://github.com/brockstar512/frontend_chat.git)
-- [add your deployment link]()
+
 
 ## Project Description
 
